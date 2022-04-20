@@ -1,4 +1,4 @@
-# CSS assignment, due on 11/21 at noon  
+# CSS assignment, due anytime this weekend (until midnight on Sunday)  
   
 For this assignment, you’re going to create a CSS file from scratch (using my instructions) to mimic the look of a BuzzFeed News article. You have all of the components that you need here — the only thing you need to do is write CSS statements.   
   
