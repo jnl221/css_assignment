@@ -29,7 +29,7 @@ Download this repo and open article.css and article.html in Sublime Text. Open u
 14. In the CSS file, make all the links in the HTML file black.  
 *Bonus*: Do some research and write a selector that changes link colors when a cursor hovers over them. The colors must be different on hover than what they are when you're not hovering on them.
 
-##Submission:  
+## Submission:    
 
 -- Login to your Github account and go to your JNL221 page. Its name should be JNL221_YourLastName.  
 -- In this repository, click 'Add file' and then, 'Upload files'. Upload 'article.html' and 'article.css'.  
