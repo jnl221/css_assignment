@@ -1,8 +1,8 @@
 # CSS assignment, due anytime this weekend (until midnight on Sunday)  
   
-For this assignment, you’re going to create a CSS file from scratch (using my instructions) to mimic the look of a BuzzFeed News article. You have all of the components that you need here — the only thing you need to do is write CSS statements.   
-  
-Download and submit instrux: Download this repository and edit 'main.css' with the instructions below. You should drag 'article.html' to a Chrome tab so you can see the changes you're making. When you're done, you should create a new repository in your Github account, call it CSS_YourLastName, and upload only 'main.css' and 'article.html'.  
+For this assignment, you’re going to create a CSS file from scratch (using these instructions) to mimic the look of a BuzzFeed News article. You have all of the components that you need here — the only thing you need to do is write CSS statements.   
+
+Download this repo and open article.css and article.html in Sublime Text. Open up article.html in a browser tab so you can see your changes. Refer to all previous homework, as well as stackoverflow.com and w3schools.com, when you're stuck! Use your resources!  
   
 ## Instructions:    
 1. Style the body element and to have a zero-pixel margin.  
@@ -28,3 +28,13 @@ Download and submit instrux: Download this repository and edit 'main.css' with t
 13. Inside the footer div, there are paragraphs with journalist names and article publication dates. Those should be colored gray and have a size of 14 pixels.  
 14. In the CSS file, make all the links in the HTML file black.  
 *Bonus*: Do some research and write a selector that changes link colors when a cursor hovers over them. The colors must be different on hover than what they are when you're not hovering on them.
+
+##Submission:  
+To turn in:
+
+-- Login to your Github account and go to your JNL221 page. Its name should be JNL221_YourLastName.  
+-- In this repository, click 'Add file' and then, 'Upload files'. Upload 'article.html' and 'article.css'.  
+-- Add an appropriate commit message and click 'Commit changes'. 
+-- IMPORTANT STEP: After you've uploaded the documents, go to 'article.html' and edit this page so that the <link> tag in the <head> of the document points to 'article.css', instead of 'css/article.css'. Commit these changes.
+-- You should be able to see your page after a few minutes at yourusername.github.io/JNL221_YourLastName/article.html. As long as you see 'article.html' and 'article.css' in your repository, you should be set.  
+-- I will be checking each of your Github pages over the weekend to make sure these have been submitted on time.  
